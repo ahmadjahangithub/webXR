@@ -1,0 +1,16 @@
+{
+"companyName": "ARweb",
+"productName": "ARweb",
+"productVersion": "0.1",
+"dataUrl": "webXR.data.unityweb",
+"wasmCodeUrl": "webXR.wasm.code.unityweb",
+"wasmFrameworkUrl": "webXR.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
